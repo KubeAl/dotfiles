@@ -163,7 +163,7 @@ endif
 set completeopt=menuone,longest
 " append becomes [a] modified becomes [+] etc
 set shortmess+=c
-set shell=/bin/bash 
+set shell=/bin/zsh 
 " for vim settings::: added after vim is here
 map <leader>nt :NERDTreeToggle<CR>
 nnoremap <D-\> :NERDTreeToggle<CR>
